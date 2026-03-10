@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/student-table-react-app/static/css/main.e4152214.css",
+    "main.js": "/student-table-react-app/static/js/main.bb340696.js",
+    "static/js/453.a6dd3ca3.chunk.js": "/student-table-react-app/static/js/453.a6dd3ca3.chunk.js",
+    "index.html": "/student-table-react-app/index.html",
+    "main.e4152214.css.map": "/student-table-react-app/static/css/main.e4152214.css.map",
+    "main.bb340696.js.map": "/student-table-react-app/static/js/main.bb340696.js.map",
+    "453.a6dd3ca3.chunk.js.map": "/student-table-react-app/static/js/453.a6dd3ca3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4152214.css",
+    "static/js/main.bb340696.js"
+  ]
+}
